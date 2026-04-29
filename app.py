@@ -1,6 +1,6 @@
 import gradio as gr
 from smolagents import CodeAgent, DuckDuckGoSearchTool, InferenceClientModel
-
+import os
 
 my_token = os.environ.get("HF_TOKEN")
 
