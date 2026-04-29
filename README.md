@@ -1,3 +1,12 @@
+---
+title: Scenic Route & Weather Advisor
+emoji: 🏔️
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: app.py
+pinned: false
+---
 # 🏔️ Scenic Route & Weather Advisor (AI Agent)
 
 An autonomous AI agent built with Python that plans scenic road trips by dynamically searching the web for the best routes, stops, and real-time weather conditions. 
